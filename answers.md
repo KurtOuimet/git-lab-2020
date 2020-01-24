@@ -41,3 +41,41 @@ Untracked files:
 	answers.md
 
 Answer 6:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+Answer 7:
+On branch master
+nothing to commit, working tree clean
+
+Answer 8:
+commit 6a7df0baf409396bc865427bba4405cb4fa4ab3e (HEAD -> master)
+Author: KurtOuimet <ko229518@ohio.edu>
+Date:   Fri Jan 24 16:23:07 2020 -0500
+
+    Initial commit
+
+Answer 9:
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Answer 10:
+The changes are not in my local copy.
+
+Answer 11:
+There is an error because the copy on Github has changes that are not on my computer.
+
+Answer 12:
+My local copy was updated with the changes made online.
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
